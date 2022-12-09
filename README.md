@@ -1,5 +1,5 @@
 # CFDformer
-## _CFDformer: Novel Fluid Flow Approximation based on ViT and U-Net]_
+## _CFDformer: Novel Fluid Flow Approximation based on ViT and U-Net_
 
 A project concerned with the prediction of velocity field using ViT and U-Net architectures. If you exploit this work for your own research, please consider citing the article or the pre-print. This work was produced during the PhD thesis of [Hyoeun Kang](https://github.com/HyoeunKang).
 
