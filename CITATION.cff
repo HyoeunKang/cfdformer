@@ -1,8 +1,8 @@
 cff-version: 0.1.0
 message: "If you use this code, please cite it as below."
 authors:
-- Last-name: "Kang"
-  First-name: "Hyoeun"
+- family-names: Kang
+  given-names: Hyoeun
   orcid: "https://orcid.org/0000-0002-9651-7439"
 title: "CFDformer dataset generation"
 version: 0.1.0
